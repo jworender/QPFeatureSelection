@@ -1,3 +1,23 @@
+Metadata-Version: 2.4
+Name: qp-feature-selection
+Version: 0.1.0
+Summary: Python-native port of MATLAB QPFeatureSelection.
+Author: QPFeatureSelection Port Contributors
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.26
+Requires-Dist: scipy>=1.12
+Requires-Dist: scikit-learn>=1.4
+Requires-Dist: pandas>=2.2
+Requires-Dist: matplotlib>=3.8
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: nbformat>=5.10; extra == "dev"
+Provides-Extra: notebook
+Requires-Dist: jupyter>=1.0; extra == "notebook"
+Requires-Dist: ipykernel>=6.0; extra == "notebook"
+
 # QPFeatureSelection
 
 ## About 

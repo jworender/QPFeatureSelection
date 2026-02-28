@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/qp_feature_selection/__init__.py
+src/qp_feature_selection/_linear.py
+src/qp_feature_selection/algorithms.py
+src/qp_feature_selection/criteria.py
+src/qp_feature_selection/data.py
+src/qp_feature_selection/evaluation.py
+src/qp_feature_selection/matlab_parity.py
+src/qp_feature_selection/optimization.py
+src/qp_feature_selection/pipeline.py
+src/qp_feature_selection.egg-info/PKG-INFO
+src/qp_feature_selection.egg-info/SOURCES.txt
+src/qp_feature_selection.egg-info/dependency_links.txt
+src/qp_feature_selection.egg-info/requires.txt
+src/qp_feature_selection.egg-info/top_level.txt
+tests/test_pipeline.py
